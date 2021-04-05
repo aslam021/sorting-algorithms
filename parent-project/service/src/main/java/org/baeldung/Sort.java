@@ -10,7 +10,7 @@ public class Sort {
 
     public static void main( String[] args ) {
 
-//        text addded from master
+//      added some text from b1
         int array[] = new int[args.length];
         getIntArray(args, array);
 
